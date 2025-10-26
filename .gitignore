@@ -1,0 +1,11 @@
+# Ignore virtual environments
+venv/
+
+# Ignore data that shouldn’t go public
+data/raw/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
