@@ -25,10 +25,10 @@ building_permits/
 
 ## Next Steps
 This is a work in progress and will evolve over time. Upcoming tasks include:
-- [ ] Build a baseline Decision Tree classifier with selected attributes (excluding date and coordinates). Target initial accuracy >=75%.
-- [ ] Compare total vs. individual fee attributes.
-- [ ] Explore adding coordinates (cluster vs. trigonometric) and check performance impact.
-- [ ] Evaluate potential seasonal effect from permit issue dates.
+- [x] Build a baseline Decision Tree classifier with selected attributes (excluding date and coordinates). Target initial accuracy >=75%.
+- [x] Compare total vs. individual fee attributes.
+- [x] Explore adding coordinates (cluster vs. trigonometric) and check performance impact.
+- [x] Evaluate potential seasonal effect from permit issue dates.
 - [ ] Test additional models (Random Forest, KNN, SVM, Logistic Regression, Gradient Boosting).
 - [ ] Tune top model and document runtime.
 
